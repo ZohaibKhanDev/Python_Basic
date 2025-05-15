@@ -18,8 +18,8 @@ This repository contains basic Python examples and exercises for beginners. It c
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/python-basics.git
-cd python-basics
+git remote add origin https://github.com/ZohaibKhanDev/Python_Basic.git
+cd Python_Basic
 
 ---
 
