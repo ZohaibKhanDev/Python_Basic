@@ -20,7 +20,3 @@ This repository contains basic Python examples and exercises for beginners. It c
 ```bash
 git remote add origin https://github.com/ZohaibKhanDev/Python_Basic.git
 cd Python_Basic
-
----
-
-Let me know if you want a `.gitignore` for Python or want to auto-generate this file using a tool.
